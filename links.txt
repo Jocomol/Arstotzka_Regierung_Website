@@ -1,0 +1,5 @@
+Colors: 
+https://color.adobe.com/de/red-black-color-theme-8566768/edit/?copy=true&base=2&rule=Custom&selected=3&name=Kopie%20von%20red%20black&mode=rgb&rgbvalues=0.15,0.15,0.15,0.97,0.021555590583333353,0.021555590583333353,0.952941,0.952941,0.952941,0.7,0.7,0.7,0.0431373,0.0431373,0.0431373&swatchOrder=0,1,2,3,4
+
+Fonts:
+https://fonts.google.com/?selection.family=Alfa+Slab+One|Poly|Press+Start+2P&category=Serif&selection.subset=cyrillic

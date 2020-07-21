@@ -1,0 +1,116 @@
+* {
+margin : 0;
+padding : 0;
+box-sizing : border-box;
+}
+body {
+background-color : #B2B2B2;
+height : 100%;
+}
+.rightfloat {
+float : right;
+}
+.leftfloat {
+float : left;
+}
+.reader {
+width : 500px;
+text-align : center;
+padding : 10px;
+}
+h1 {
+font-family : 'Press Start 2P', cursive;
+color : #F70505;
+margin : 0 0 0 800px;
+padding : 30px 0 0 0;
+}
+h2 {
+font-family : 'Alfa Slab One', cursive;
+color : #262626;
+padding : 10px;
+}
+h3 {
+font-family : 'Poly', serif;
+}
+h4 {
+font-family : 'Poly', serif;
+}
+p {
+font-family : 'Poly', serif;
+margin : 0 0 10px 0;
+}
+#container {
+width : 1400px;
+height : 100%;
+margin : 0 auto;
+background-color : #F3F3F3;
+}
+#banner {
+height : 150px;
+background-color : #262626;
+}
+#banner img {
+float : left;
+}
+#banner name {
+margin : 0 0 100px 0;
+}
+#menu {
+height : 80px;
+}
+#menu nav {
+text-align : right;
+}
+#menu nav ul {
+display : inline-block;
+}
+#menu li {
+float : left;
+list-style : none;
+height : 80px;
+}
+#menu li a {
+padding : 0 25px 0 25px;
+line-height : 80px;
+display : block;
+color : #F3F3F3;
+margin : 0 10px 0 0;
+font-family : 'Poly', serif;
+}
+#menu li:hover {
+background-color : #B2B2B2;
+}
+#left {
+float : left;
+width : 500px;
+padding : 10px;
+}
+#left img {
+float : left;
+margin : 0 5px 0 0;
+}
+#left ul {
+list-style : none;
+}
+#left ul li a {
+display : block;
+padding : 25px 0 25px 50px;
+}
+#left ul li:hover {
+background-color : #000000;
+}
+#right {
+padding : 10px;
+margin : 0 0 0 800px;
+height : 100%;
+}
+#right p {
+height : 25px;
+margin : 0 0 0 0;
+display : block;
+}
+#content {
+clear : both;
+}
+#formular {
+margin : 10px 0 10px 500px;
